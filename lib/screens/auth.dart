@@ -62,7 +62,7 @@ class _AuthScreenState extends State<AuthScreen>
                     Navigator.push(
                       context,
                       MaterialPageRoute(
-                        builder: (_) => HelloScreen(),
+                        builder: (_) => PaymentDialog(),
                       ),
                     );
                   },
