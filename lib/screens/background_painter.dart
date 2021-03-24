@@ -209,3 +209,4 @@ class SpringCurve extends Curve {
     return (-(pow(e, -t / a) * cos(t * w)) + 1).toDouble();
   }
 }
+//hello
